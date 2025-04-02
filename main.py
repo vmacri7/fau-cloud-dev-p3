@@ -203,7 +203,7 @@ def index():
             </main>
             
             <footer>
-                <p>Vincenzo Macri · Cloud Native Dev · Project 2</p>
+                <p>Vincenzo Macri · Cloud Native Dev · Project 3</p>
             </footer>
         </div>
         
